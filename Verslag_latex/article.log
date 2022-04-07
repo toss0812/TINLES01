@@ -1,9 +1,12 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2022.3.29)  7 APR 2022 12:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.7)  7 APR 2022 14:17
 entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
 **./article.tex
 (article.tex
 LaTeX2e <2021-11-15> patch level 1
-L3 programming layer <2022-02-24> (D:\MikeTex\tex/latex/ieeetran\IEEEtran.cls
+L3 programming layer <2022-02-24>
+(D:\LaTex\MikTex\tex/latex/ieeetran\IEEEtran.cls
 Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
 -- See the "IEEEtran_HOWTO" manual for usage information.
 -- http://www.michaelshell.org/tex/ieeetran/
@@ -16,7 +19,7 @@ Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
 \@IEEEtrantmptoksA=\toks16
 LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 5
 03.
-(D:\MikeTex\tex/latex/psnfss\ot1ptm.fd
+(D:\LaTex\MikTex\tex/latex/psnfss\ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 -- Using 8.5in x 11in (letter) paper.
@@ -110,31 +113,76 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
 \IEEEPARstartletwidth=\dimen161
 \c@IEEEbiography=\count199
 \@IEEEtranrubishbin=\box51
-) (D:\MikeTex\tex/latex/l3backend\l3backend-pdftex.def
+) (D:\LaTex\MikTex\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(D:\LaTex\MikTex\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(D:\LaTex\MikTex\tex/latex/graphics\graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(D:\LaTex\MikTex\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(D:\LaTex\MikTex\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(D:\LaTex\MikTex\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen162
+\Gin@req@width=\dimen163
+)
+(D:\LaTex\MikTex\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count266
 \l__pdf_internal_box=\box52
 ) (article.aux)
 \openout1 = `article.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
 
 -- Lines per column: 56 (exact).
-(doc_abstract.tex) (doc_introduction.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 3--33
+(D:\LaTex\MikTex\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count267
+\scratchdimen=\dimen164
+\scratchbox=\box53
+\nofMPsegments=\count268
+\nofMParguments=\count269
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count270
+\MPscratchDim=\dimen165
+\MPnumerator=\count271
+\makeMPintoPDFobject=\count272
+\everyMPtoPDFconversion=\toks19
+) (D:\LaTex\MikTex\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(D:\LaTex\MikTex\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+)) (doc_abstract.tex)
+(doc_introduction.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 3--34
 
  []
 
@@ -157,8 +205,7 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[1{C:/Users/tding/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
-
+[1{C:/Users/Gebruiker/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
 
 ]
@@ -168,18 +215,18 @@ Before submitting the final camera ready copy, remember to:
 ### simple group (level 1) entered at line 6 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 1275 strings out of 478604
- 25475 string characters out of 2860905
- 322052 words of memory out of 3000000
- 19511 multiletter control sequences out of 15000+600000
+ 2123 strings out of 478582
+ 38430 string characters out of 2857934
+ 337549 words of memory out of 3000000
+ 20325 multiletter control sequences out of 15000+600000
  498626 words of font info for 76 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,8n,37p,238b,248s stack positions out of 10000i,1000n,20000p,200000b,80000s
-{D:/MikeTex/fonts/enc/dvips/base/8r.enc}<D:/MikeTex/fonts/type1
-/urw/times/utmb8a.pfb><D:/MikeTex/fonts/type1/urw/times/utmbi8a.pfb><D:/MikeTex
-/fonts/type1/urw/times/utmr8a.pfb><D:/MikeTex/fonts/type1/urw/times/utmri8a.pfb
->
-Output written on article.pdf (1 page, 53828 bytes).
+ 55i,8n,62p,403b,248s stack positions out of 10000i,1000n,20000p,200000b,80000s
+{D:/LaTex/MikTex/fonts/enc/dvips/base/8r.enc}<D:/LaTex/MikTex/f
+onts/type1/urw/times/utmb8a.pfb><D:/LaTex/MikTex/fonts/type1/urw/times/utmbi8a.
+pfb><D:/LaTex/MikTex/fonts/type1/urw/times/utmr8a.pfb><D:/LaTex/MikTex/fonts/ty
+pe1/urw/times/utmri8a.pfb>
+Output written on article.pdf (1 page, 55634 bytes).
 PDF statistics:
  27 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
