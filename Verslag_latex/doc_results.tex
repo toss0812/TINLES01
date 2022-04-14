@@ -1,3 +1,5 @@
 %% RESULTS
 %% Geen \section{} toevoegen
-The sensor modules are most of the time in power-down sleep mode to reduce power usage. To wake a sensor module, a pin change interrupt is used. The pin change interrupt will be triggered when a sensor detect a change. The sensor module will then send the data from the sensor over BLE to the Hub. After sending the data, it will go back to sleep.
+The sensor modules are most of the time in power-down sleep mode to reduce power usage. In this mode, all generated clocks and oscillators are stopped. Only the INT0, Watchdog Timer and Pin Change Interrupt can wake the microcontroller from the power-down sleep mode \cite{ATtiny24/44/84}.
+To wake a sensor module, a pin change interrupt is used. The pin change interrupt will be triggered when a sensor detect a change. The sensor module will then send the data from the sensor over BLE to the Hub. After sending the data, it will go back to sleep.
+
